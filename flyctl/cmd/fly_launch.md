@@ -2,7 +2,8 @@ Create and configure a new app from source code or a Docker image.  Options pass
 
 ## Usage
 ~~~
-fly launch [flags]
+fly launch
+
 ~~~
 
 ## Options
